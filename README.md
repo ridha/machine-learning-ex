@@ -1,2 +1,3 @@
-# machine-learning-ex
-Python code for the assignments of machine learning course https://www.coursera.org/learn/machine-learning
+# Introduction
+
+This is the Python 3 version assignments of the popular online machine learning course on Coursera website.
