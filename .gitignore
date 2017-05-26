@@ -1,1 +1,5 @@
 __pycache__/
+develop-eggs/
+eggs/
+bin/
+.installed.cfg
